@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\3X3 MATRİS İŞLEMLERİ\3X3 MATRİS İŞLEMLERİ\bin\Debug\3X3 MATRİS İŞLEMLERİ.exe.config
+C:\Users\hp\source\repos\3X3 MATRİS İŞLEMLERİ\3X3 MATRİS İŞLEMLERİ\bin\Debug\3X3 MATRİS İŞLEMLERİ.exe
+C:\Users\hp\source\repos\3X3 MATRİS İŞLEMLERİ\3X3 MATRİS İŞLEMLERİ\bin\Debug\3X3 MATRİS İŞLEMLERİ.pdb
+C:\Users\hp\source\repos\3X3 MATRİS İŞLEMLERİ\3X3 MATRİS İŞLEMLERİ\obj\Debug\3X3 MATRİS İŞLEMLERİ.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\3X3 MATRİS İŞLEMLERİ\3X3 MATRİS İŞLEMLERİ\obj\Debug\3X3 MATRİS İŞLEMLERİ.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\3X3 MATRİS İŞLEMLERİ\3X3 MATRİS İŞLEMLERİ\obj\Debug\3X3 MATRİS İŞLEMLERİ.exe
+C:\Users\hp\source\repos\3X3 MATRİS İŞLEMLERİ\3X3 MATRİS İŞLEMLERİ\obj\Debug\3X3 MATRİS İŞLEMLERİ.pdb
